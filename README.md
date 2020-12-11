@@ -1,5 +1,7 @@
 # AI4GOOD_Hackathon_Walkthrough
-Repository tracking the organized walkthrough of data analytics for the AI4Good hackathon 2020. This repository contains the walkthrough colab file and the associated datasets
+Repository tracking the organized walkthrough of data analytics for the 
+[AI4Good hackathon 2020](https://techaidemontreal.org/2020-ai-conference-and-hackathon). 
+This repository contains the walkthrough colab file and the associated datasets
 
 Click here to download the zipped data: https://drive.google.com/file/d/1qLS8Sg_-vqkdKdQf9GoKZtnHzw1hLbKC/view?usp=sharing
 
